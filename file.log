@@ -1,0 +1,18 @@
+
+2023-08-20 17:34:48,077 - INFO - Exchange rates for 20.08.2023:
+2023-08-20 17:34:48,079 - INFO - Exchange rates for 19.08.2023:
+2023-08-20 17:36:38,292 - INFO - You must enter a number less than 10.
+2023-08-20 17:49:33,572 - INFO - Exchange rates for 20.08.2023
+2023-08-20 17:49:33,574 - INFO - Exchange rates for 19.08.2023
+2023-08-20 17:49:42,475 - INFO - You must enter a number less than 10.
+2023-08-20 17:50:06,382 - ERROR - You must enter a number less than 10.
+2023-08-20 17:51:46,461 - INFO - Exchange rates for 20.08.2023
+2023-08-20 17:51:46,463 - INFO - Exchange rates for 19.08.2023
+2023-08-20 17:54:42,523 - INFO - Rates USD: 38.0 (sell) / 37.4 (buy)
+2023-08-20 17:54:42,523 - INFO - Rates EUR: 41.85 (sell) / 40.85 (buy)
+2023-08-20 17:54:42,525 - INFO - Rates USD: 38.0 (sell) / 37.4 (buy)
+2023-08-20 17:54:42,525 - INFO - Rates EUR: 41.85 (sell) / 40.85 (buy)
+2023-08-20 18:16:05,689 - INFO - Exchange rate USD as of 20.08.2023: 38.0 (sell) / 37.4 (buy)
+2023-08-20 18:16:05,689 - INFO - Exchange rate EUR as of 20.08.2023: 41.85 (sell) / 40.85 (buy)
+2023-08-20 18:16:05,690 - INFO - Exchange rate USD as of 19.08.2023: 38.0 (sell) / 37.4 (buy)
+2023-08-20 18:16:05,690 - INFO - Exchange rate EUR as of 19.08.2023: 41.85 (sell) / 40.85 (buy)
