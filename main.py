@@ -15,7 +15,6 @@ class CurrencyRatePrinter:
             if entry['currency'] == currency:
                 rate = entry
                 break
-        # rate = next((entry for entry in data['exchangeRate'] if entry['currency'] == currency), None)
 
         if rate:
             logging.info(f"Exchange rate {currency} as of {date}: {rate['saleRate']} (sell) / {rate['purchaseRate']} (buy)")
